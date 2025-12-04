@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 786px;
+    background-color: #f1f1f1;
+    padding: 9px 16px;
+    border-radius: 10px;
+    margin-left: 6px;
+    height: 70px;
+    margin-bottom: 39px;
+}
+
+.naming{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    
+}
+.play {
+margin-left: 178px;
+align-items: center;
+display: flex;
+}
+.last {
+    display: flex;
+    align-items: center;
+    margin-left: 223px;
+    gap: 18px;
+}

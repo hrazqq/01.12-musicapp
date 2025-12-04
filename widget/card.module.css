@@ -1,0 +1,29 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #f1f1f1;
+    padding: 9px 16px;
+    border-radius: 10px;
+}
+.main:hover {
+    background-color: rgb(221, 215, 215);
+    transform: scale(1.01);
+} 
+
+.naming{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.reaction{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.sost{
+    gap: 15px;
+    display: flex;
+}
